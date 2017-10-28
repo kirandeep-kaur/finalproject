@@ -1,0 +1,234 @@
+{
+    "introduction":"This quiz tests you about foo and goo", 
+    "questions":[
+    {
+        "questions":"Which of the following jQuery method sets the html contents of an element?",
+        "answers":[
+            "Html (val)",
+            "sethtml(val)",
+            "setinnerhtml(val)",
+            
+        ],
+        "correct":3
+    },
+    {
+        "question":"What is the typical file name of startuppage of an application.?",
+        "answers":[
+            "index.html",
+            "index.htm",
+            "config.xml",
+            "conf.xml"
+        ],
+        "correct":2
+    },
+    {
+        "question":"Which cardova version introduce cordova CLI?",
+        "answers":[
+            "3",
+            "2",
+            "1",
+            "none of the above"
+        ],
+        "correct":0
+    },
+    {
+        "question":"jQuery code to set the background color of all span elements to blue?",
+        "answers":[
+           "$(“span”).style(“background-color”,”blue”)",
+           "$(“span”).manipulate(“background-color”,”blue”)",
+            "$(“span”).css(“background-color”,”blue”)",
+            "$(“span”).layout(“background-color”,”blue”)"
+        ],
+        "correct":3
+    },
+   { "question":"jQuery method to hide selected elements?",
+        "answers" :[
+             "visible(false)",
+            "hidden()",
+           "display(none)",
+            "hide()"
+        ],
+        "correct":4
+    },
+   { "question":" jQuery method to set one or more style properties for selected elements?",
+        "answers":[
+            "style()",
+            "css()",
+             "html()",
+            
+        ],
+        "correct":4
+    },
+  {  "question" :" jQuery method is used to perform an asynchronous HTTP request?",
+        "answers":[
+            "jQuery.ajaxAsync()",
+             "jQuery.ajaxSetup()" ,
+             "jQuery.ajax()" ,
+            
+        ],
+        "correct":4
+    },
+    
+  { " question":"  What scripting language is jQuery written in?",
+        "answers":[
+           "VBScript" ,
+               "C++",
+             "JavaScript",
+             "C#"
+                     ],
+        "correct":3
+    },
+    
+{" question":"   "" Is jQuery a library for client scripting or server scripting  ?",
+        "answers":[
+           "Server scripting",
+            "Client scripting",
+
+             
+              ],
+        "correct":3
+    },
+ {"   question":"Which jQuery method is used to switch between adding/removing one or more classes (for CSS) from selected elements  ?",
+        "answers":[
+            "switchClass()",
+            "addRemoveClass()",
+            "altClass()",
+            "toggleClass()"
+             
+              ],
+        "correct":3
+    },
+
+  {"  question":"Which jQuery function is used to prevent code from running, before the document is finished loading?",
+        "answers":[
+            "$(document).load()",
+           "$(document).ready()",
+            "$(body).onload()"
+             
+              ],
+        "correct":3
+    },
+
+  {"   question":" Which jQuery method should be used to deal with name conflicts?",
+        "answers":[
+            "noNameConflict()", 
+            "noConflict()",
+             "nameConflict()",
+             "conflict()"
+             
+              ],
+        "correct":3
+    },
+    {"question" :"Which jQuery method should be used to deal with name conflicts?",
+        "answers":[
+            "noNameConflict()", 
+            "noConflict()",
+             "nameConflict()",
+             "conflict()"
+             
+              ],
+        "correct":3
+    },
+
+{"question" :"  Which jQuery method is used to switch between adding/removing one or more classes (for CSS) from selected elements?",
+        "answers":[
+            "toggleClass()",
+            "switch()",
+             "altClass()", 
+             "switchClass()"
+             
+              ],
+        "correct":3
+    },
+   {" question":"  How do you use JavaScript within CoffeeScript code?",
+        "answers":[
+            "Use the JavaScript keyword",
+            "Wrap the code in <script> tagsou can't embed" ,
+            "JavaScript code within CoffeeScript"
+        
+    ],
+     "correct":3
+     } ,  
+
+   { "question":" Which of the following is correct ?",
+        "answers":[
+            "jQuery is a JavaScript Library"
+             "jQuery is a JSON Library"
+            
+        
+
+    ],
+    "correct":3
+},
+      { "question":" With jQuery, look at the following selector: What does it select? ?",
+        "answers":[
+            "All div elements with "
+ "The first div element with "
+ "All div elements with "
+ "The first div element with "
+
+        
+    ],
+    "correct":2
+},
+{  "question" :"Which jQuery function is used to prevent code from running, before the document is finished loading ?",
+        "answers":[
+            "$(body).onload()",
+            "$(document).ready()",
+            "$(document).load()"
+
+],
+    "correct":2
+} ,
+{"question":"Which statement is true",
+        "answers":[
+            "To use jQuery, you do not have to do anything. Most browsers (Internet Explorer, Chrome, Firefox and Opera) have the jQuery library built in the browser"
+ "To use jQuery, you must buy the jQuery library at www.jquery.com",
+ "To use jQuery, you can refer to a hosted jQuery library at Google"
+
+
+],
+    "correct":2
+} ,
+{"question" :"Which jQuery method returns the direct parent element of the selected element?",
+        "answers":[
+           "ancestor()",
+
+ "ancestors()",
+ "parent()",
+ "parents()",
+
+],
+    "correct":2
+} 
+
+{"question":"The jQuery animate() method can be used to animate ANY CSS property?",
+        "answers":[
+          "Only properties containing numeric values",
+ "Yes",
+ "All properties except the shorthand properties"
+], 
+    "correct":2
+} ,
+{"question":"Which jQuery method is used to perform an asynchronous HTTP request?",
+        "answers":[
+        "jQuery.ajax()"
+ "jQuery.ajaxAsync()"
+ "jQuery.ajaxSetup()"
+], 
+    "correct":2
+} ,
+{"question":"Which is the method that operates on the return value of $()",
+        "answers":[
+        "show()"
+ "css()"
+ "click()"
+ "done()"
+], 
+    "correct":2
+} 
+]
+}
+
+
+
